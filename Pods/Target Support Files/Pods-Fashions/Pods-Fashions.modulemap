@@ -1,0 +1,6 @@
+module Pods_Fashions {
+  umbrella header "Pods-Fashions-umbrella.h"
+
+  export *
+  module * { export * }
+}
